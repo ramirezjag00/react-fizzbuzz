@@ -1,0 +1,25 @@
+.container {
+  margin-right: 6em;
+  margin-left: 6em;
+  text-align: center;
+}
+
+.unordered {
+  list-style-type: none;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.purple {
+  color: purple;
+}
+
+.size {
+  font-size: 64px;
+}
