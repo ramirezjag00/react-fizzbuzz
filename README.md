@@ -1,5 +1,5 @@
 # ReactJS - FizzBuzz
-
+[CODEPEN-FULLPAGE-VIEW](https://codepen.io/dreyz420/full/MVEmvO/)
 ## Print 1-50 (with increment / decrement buttons)
 - if divisible by 15, print 'FizzBuzz' in RED
 - if divisible by 5, print 'Buzz' in BLUE
